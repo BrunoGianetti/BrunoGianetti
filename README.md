@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects, learn about Data Science and Financial Markets and colaborate with people.
+I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
 
 
 <!--
