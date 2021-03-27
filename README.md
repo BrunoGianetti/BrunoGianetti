@@ -1,4 +1,9 @@
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/MarketCicles/blob/main/1.png">
+
 ### Hi there 👋
+
+I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects, learn about Data Science and Financial Markets and colaborate with people.
+
 
 <!--
 **BrunoGianetti/BrunoGianetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
