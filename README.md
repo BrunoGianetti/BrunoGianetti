@@ -1,4 +1,4 @@
-<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/MarketCicles/blob/main/1.png">
+<img width="500" alt="rename screenshot" src="https://github.com/BrunoGianetti/BrunoGianetti/blob/main/Github_capa.png">
 
 ### Hi there 👋
 
