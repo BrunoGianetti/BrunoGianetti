@@ -1,8 +1,16 @@
 <img width="1000" alt="rename screenshot" src="https://github.com/BrunoGianetti/BrunoGianetti/blob/main/Github_capa.png">
 
-### Hi there 👋
+High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
 
-I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
+<details> + <h1> &nbsp; ### About me 🤔</h1>
+
+  - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h1>
+  - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h1>
+  - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h1>
+  - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h1>
+  - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h1>
+
+</details>
 
 
 <!--
