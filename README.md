@@ -1,10 +1,6 @@
 <img width="1000" alt="rename screenshot" src="https://github.com/BrunoGianetti/BrunoGianetti/blob/main/Github_capa.png">
 
-### >>> Atention: Men at work NOW! <<<
-
 High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
-
-### >>> Atention: Men at work NOW! <<<
 
 <h1> &nbsp; About me 🤔</h1>
   
@@ -45,29 +41,14 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 
 <details> 
   <p></p>
-  <p> - &nbsp; Email: </p>
-  <p> - &nbsp; Phone: </p>
-  <p> - &nbsp; Facebook: </p>
-  <p> - &nbsp; Linked In: </p>
-  <p> - &nbsp; Instagram: </p>
-  <p> - &nbsp; Twitter: </p>
+  <p> - &nbsp; Email: bruno.gianetti@yahoo.com </p>
+  <p> - &nbsp; Phone: +55 (19) 99756-9175 </p>
+  <p> - &nbsp; Facebook: facebook.com/brungianetti/ </p>
+  <p> - &nbsp; Linked In: linkedin.com/in/brunogianetti/</p>
+  <p> - &nbsp; Instagram: instagram.com/traderitaliano/</p>
+  <p> - &nbsp; Twitter: twitter.com/bruno_gianetti</p>
 </details>
 
 <h1> &nbsp; Stats </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGianetti&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**BrunoGianetti/BrunoGianetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
