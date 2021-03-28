@@ -6,7 +6,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 
 ### >>> Atention: Men at work NOW! <<<
 
-<h1 style="color:#ff0000"> &nbsp; About me 🤔</h1>
+<h1> &nbsp; About me 🤔</h1>
   
 <details> 
   <p></p>
@@ -20,13 +20,13 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 
 <details> 
   <p></p>
-  <p><span style="font-size:24px;padding:8px;color:#fff;background-color:#ee9600">  - &nbsp; English:</span> Technincal and always practicin. </p>
-  <p> - &nbsp; Italian. Beginner, but gain allday. </p>
-  <p> - &nbsp; Python. My Core! My base language. And learn more everyday. </p>
-  <p> - &nbsp; HTML. I like it and using in all stuffs. </p>
-  <p> - &nbsp; Git. Basically tooling everything. </p>
-  <p> - &nbsp; Jupyter's Notebook (ANACONDA). Doc everything. </p>
-  <p> - &nbsp; VSC. Facilities alltime. </p>
+  <p> - &nbsp; English: Technincal and always practicin. </p>
+  <p> - &nbsp; Italian: Beginner, but gain allday. </p>
+  <p> - &nbsp; Python: My Core! My base language. And learn more everyday. </p>
+  <p> - &nbsp; HTML: I like it and using in all stuffs. </p>
+  <p> - &nbsp; Git: Basically tooling everything. </p>
+  <p> - &nbsp; Jupyter's Notebook (ANACONDA): Doc everything. </p>
+  <p> - &nbsp; VSC: Facilities alltime. </p>
 </details>
 
 <h1> &nbsp; Focus on 🔭</h1>
@@ -34,9 +34,10 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <details> 
   <p></p>
   <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Learn more about Data Science.</p>
   <p> - &nbsp; Learn more about Deep Learning.</p>
   <p> - &nbsp; Learn more about Artificial Intelligence.</p>
-  <p> - &nbsp; Learn more about Automation.</p>
+  <p> - &nbsp; Learn more about Test Automation.</p>
   <p> - &nbsp; Learn more about Financial Market.</p>
 </details>
 
