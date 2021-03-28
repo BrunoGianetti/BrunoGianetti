@@ -55,12 +55,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 
 <h1> &nbsp; Stats </h1>
 
-<a href="https://github.com/BrunoGianetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoGianettitheme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGianettitheme=buefy&layout=compact" />
-</a>
-
-<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGianetti)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BrunoGianetti/BrunoGianetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
