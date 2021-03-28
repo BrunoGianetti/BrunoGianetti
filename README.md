@@ -2,15 +2,25 @@
 
 High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
 
-+ <h1> &nbsp; About me 🤔</h1>
+<h1> &nbsp; About me 🤔</h1>
   
-  <details> 
+<details> 
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  </details>
+</details>
+
+<h2> &nbsp; Tooling 🤔</h2>
+
+<details> 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+</details>
 
 
 <!--
