@@ -9,20 +9,20 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; About me 🤔</h1>
   
 <details> 
-  <p> - &nbsp; Self-taught.</p>
-  <p> - &nbsp; Ambicious.</p>
-  <p> - &nbsp; Tech lover.</p>
-  <p> - &nbsp; Book eater.</p>
+  <p> - &nbsp; Self-taught. I work hard using any disposeble time along my day to improve skills.</p>
+  <p> - &nbsp; Ambicious. I want to become more than yesterday.</p>
+  <p> - &nbsp; Tech lover. I like very much tech solutions and facilities using devices. </p>
+  <p> - &nbsp; Book eater. Any subject, fiction or technical, I always have a book in hands. </p>
   </details>
 
 <h1> &nbsp; Skills ⚡</h1>
 
 <details> 
-  <p> - &nbsp; English.</p>
-  <p> - &nbsp; Italian.</p>
-  <p> - &nbsp; Python.</p>
-  <p> - &nbsp; HTML</p>
-  <p> - &nbsp; Git</p>
+  <p> - &nbsp; English. Technincal and always practicin. </p>
+  <p> - &nbsp; Italian. Beginner, but gain allday. </p>
+  <p> - &nbsp; Python. My Core! My base language. And learn more everyday. </p>
+  <p> - &nbsp; HTML. I like it and using in all stuffs. </p>
+  <p> - &nbsp; Git. Basically tooling everything. </p>
 </details>
 
 <h1> &nbsp; Focus on 🔭</h1>
@@ -45,6 +45,8 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   <p> - &nbsp; Instagram: </p>
   <p> - &nbsp; Twitter: </p>
 </details>
+
+<h1> &nbsp; How to contact me 📫 </h1>
 
 <!--
 **BrunoGianetti/BrunoGianetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
