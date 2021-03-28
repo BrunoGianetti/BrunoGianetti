@@ -5,11 +5,11 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 + <h1> &nbsp; About me 🤔</h1>
   
   <details> 
-  <h2> - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h2>
-  <h2> - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h2>
-  <h2> - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h2>
-  <h2> - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h2>
-  <h2> - &nbsp; Exploring new technologies and developing software solutions and quick hacks. </h2>
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   </details>
 
 
