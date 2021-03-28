@@ -10,7 +10,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   
 <details> 
   <p></p>
-  <p color: red> - &nbsp;Self-taught:</color> I work hard using any disposeble time along my day to improve skills.</p>
+  <p> <style="color:#ff0000"> - &nbsp;Self-taught:</style> I work hard using any disposeble time along my day to improve skills.</p>
   <p> - &nbsp; Ambicious. I want to become more than yesterday.</p>
   <p> - &nbsp; Tech lover. I like very much tech solutions and facilities using devices. </p>
   <p> - &nbsp; Book eater. Any subject, fiction or technical, I always have a book in hands. </p>
