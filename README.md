@@ -52,3 +52,22 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; Stats </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGianetti&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+import qrcode
+
+input_URL = "https://www.google.com/"
+
+qr = qrcode.QRCode(
+    version=1,
+    error_correction=qrcode.constants.ERROR_CORRECT_L,
+    box_size=15,
+    border=4,
+)
+
+qr.add_data(input_URL)
+qr.make(fit=True)
+
+img = qr.make_image(fill_color="red", back_color="white")
+img.save("url_qrcode.png")
+
+print(qr.data_list)
