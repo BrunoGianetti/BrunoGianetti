@@ -1,6 +1,6 @@
 <img width="1000" alt="rename screenshot" src="https://github.com/BrunoGianetti/BrunoGianetti/blob/main/Github_capa.png">
 
-Atention: Men at work!
+### >>> Atention: Men at work! <<<
 
 High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
 
@@ -14,7 +14,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
 </details>
 
-<h2> &nbsp; Tooling 🔭</h2>
+<h2> &nbsp; Skills ⚡</h2>
 
 <details> 
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -24,6 +24,25 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
    - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 </details>
 
+<h3> &nbsp; Focus on 🔭</h3>
+
+<details> 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+</details>
+
+<h3> &nbsp; How to contact me 📫</h3>
+
+<details> 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+</details>
 
 <!--
 **BrunoGianetti/BrunoGianetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
