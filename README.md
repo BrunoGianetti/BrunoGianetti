@@ -9,6 +9,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; About me 🤔</h1>
   
 <details> 
+  <p></p>
   <p> - &nbsp; Self-taught. I work hard using any disposeble time along my day to improve skills.</p>
   <p> - &nbsp; Ambicious. I want to become more than yesterday.</p>
   <p> - &nbsp; Tech lover. I like very much tech solutions and facilities using devices. </p>
