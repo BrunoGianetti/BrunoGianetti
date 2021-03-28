@@ -6,11 +6,11 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 
 ### >>> Atention: Men at work NOW! <<<
 
-<h1> &nbsp; About me 🤔</h1>
+<h1 style="color:#ff0000"> &nbsp; About me 🤔</h1>
   
 <details> 
   <p></p>
-  <p style="color:#ff0000"> - &nbsp;Self-taught:</p><p> I work hard using any disposeble time along my day to improve skills.</p>
+  <p> - &nbsp;Self-taught: I work hard using any disposeble time along my day to improve skills.</p>
   <p> - &nbsp; Ambicious. I want to become more than yesterday.</p>
   <p> - &nbsp; Tech lover. I like very much tech solutions and facilities using devices. </p>
   <p> - &nbsp; Book eater. Any subject, fiction or technical, I always have a book in hands. </p>
