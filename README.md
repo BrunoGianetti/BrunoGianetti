@@ -20,11 +20,13 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 
 <details> 
   <p></p>
-  <p> - &nbsp; English. Technincal and always practicin. </p>
+  <p><span style="font-size:24px;padding:8px;color:#fff;background-color:#ee9600">  - &nbsp; English:</span> Technincal and always practicin. </p>
   <p> - &nbsp; Italian. Beginner, but gain allday. </p>
   <p> - &nbsp; Python. My Core! My base language. And learn more everyday. </p>
   <p> - &nbsp; HTML. I like it and using in all stuffs. </p>
   <p> - &nbsp; Git. Basically tooling everything. </p>
+  <p> - &nbsp; Jupyter's Notebook (ANACONDA). Doc everything. </p>
+  <p> - &nbsp; VSC. Facilities alltime. </p>
 </details>
 
 <h1> &nbsp; Focus on 🔭</h1>
