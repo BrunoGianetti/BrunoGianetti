@@ -10,7 +10,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   
 <details> 
   <p></p>
-  <p> - &nbsp; Self-taught. I work hard using any disposeble time along my day to improve skills.</p>
+  <p> - &nbsp; <color: red>Self-taught:</color> I work hard using any disposeble time along my day to improve skills.</p>
   <p> - &nbsp; Ambicious. I want to become more than yesterday.</p>
   <p> - &nbsp; Tech lover. I like very much tech solutions and facilities using devices. </p>
   <p> - &nbsp; Book eater. Any subject, fiction or technical, I always have a book in hands. </p>
@@ -19,6 +19,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; Skills ⚡</h1>
 
 <details> 
+  <p></p>
   <p> - &nbsp; English. Technincal and always practicin. </p>
   <p> - &nbsp; Italian. Beginner, but gain allday. </p>
   <p> - &nbsp; Python. My Core! My base language. And learn more everyday. </p>
@@ -29,6 +30,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; Focus on 🔭</h1>
 
 <details> 
+  <p></p>
   <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
   <p> - &nbsp; Learn more about Deep Learning.</p>
   <p> - &nbsp; Learn more about Artificial Intelligence.</p>
@@ -39,6 +41,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; How to contact me 📫 </h1>
 
 <details> 
+  <p></p>
   <p> - &nbsp; Email: </p>
   <p> - &nbsp; Phone: </p>
   <p> - &nbsp; Facebook: </p>
@@ -47,7 +50,7 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   <p> - &nbsp; Twitter: </p>
 </details>
 
-<h1> &nbsp; How to contact me 📫 </h1>
+<h1> &nbsp; Stats </h1>
 
 <!--
 **BrunoGianetti/BrunoGianetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
