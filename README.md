@@ -14,34 +14,36 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
 </details>
 
-<h2> &nbsp; Skills ⚡</h2>
+<h1> &nbsp; Skills ⚡</h1>
 
 <details> 
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
 </details>
 
-<h3> &nbsp; Focus on 🔭</h3>
+<h1> &nbsp; Focus on 🔭</h1>
 
 <details> 
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
 </details>
 
-<h3> &nbsp; How to contact me 📫</h3>
+<h1> &nbsp; How to contact me 📫 </h1>
 
 <details> 
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-   - &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
+  <p> - &nbsp; Exploring new technologies and developing software solutions and quick hacks.</p>
 </details>
 
 <!--
