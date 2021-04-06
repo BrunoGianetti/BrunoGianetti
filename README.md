@@ -52,5 +52,3 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
 <h1> &nbsp; Stats </h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGianetti&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="brunogianetti"><a class="LI-simple-link" href='https://br.linkedin.com/in/brunogianetti?trk=profile-badge'>Bruno Gianetti</a></div>
