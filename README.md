@@ -1,4 +1,4 @@
-<img width="1000" alt="rename screenshot" src="https://github.com/BrunoGianetti/BrunoGianetti/blob/main/Github_capa.png">
+![Banner LinkedIn](https://user-images.githubusercontent.com/55636879/210119769-8387c76c-4725-4fd2-8add-8a618d1645a2.png)
 
 High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusiast developer. Here I intend to share my projects/ideias, learn about Data Science, Machine Learning, AI, Financial Markets and colaborate with people.
 
