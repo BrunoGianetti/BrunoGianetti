@@ -45,7 +45,6 @@ High there!👋 I'm Bruno Gianetti, trader in brazilian stock market and enthusi
   <p> - &nbsp; Phone: +55 (19) 99756-9175 </p>
   <p> - &nbsp; Facebook: facebook.com/brungianetti/ </p>
   <p> - &nbsp; Linked In: linkedin.com/in/brunogianetti/</p>
-  <p> - &nbsp; Instagram: instagram.com/traderitaliano/</p>
   <p> - &nbsp; Twitter: twitter.com/bruno_gianetti</p>
 </details>
 
